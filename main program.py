@@ -5,6 +5,8 @@
 principal=float(input("enter amount of your loan: "))
 annual_interest_rate=float(input("enter annual interest of your loan: "))
 duration=float(input("enter duration of your loan, how many years?:"))
+
+#showing information about loan
 print("")
 print("This is your loan information: ")
 print("loan amount: ", principal)
